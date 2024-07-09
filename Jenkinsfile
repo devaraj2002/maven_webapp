@@ -12,7 +12,7 @@ pipeline{
                 git branch: 'main', changelog: false, credentialsId: 'devaraj2002', poll: false, url: 'https://github.com/devaraj2002/maven_webapp.git'
                 }
             }
-            stage("maven build")
+            stage("maven built")
             {
                 steps
                 {
