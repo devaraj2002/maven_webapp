@@ -6,11 +6,11 @@
     double num = Math.random();
     if (num > 0.95) {
   %>
-      <h2>You'll have a luck day!</h2><p>(<%= num %>)</p>
+      <h2>You'll have a luck day! devaraj!!</h2><p>(<%= num %>)</p>
   <%
     } else {
   %>
-      <h2>Well, life goes on ... Welcome to Nimbus </h2><p>(<%= num %>)</p>
+      <h2>Well, life goes on ... Welcome to Nimbus  dm</h2><p>(<%= num %>)</p>
   <%
     }
   %>
